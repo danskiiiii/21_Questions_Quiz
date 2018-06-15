@@ -95,7 +95,7 @@ function loadJSON(callback) {
   let xobj = new XMLHttpRequest();
   xobj.overrideMimeType("application/json");
   // using false here, async call was resulting with an undefined array "questionsArray"
-  xobj.open('GET', 'quiz_data.json', false);
+  xobj.open('GET', 'src/quiz_data.json', false);
 	xobj.onreadystatechange = function () {
         if (xobj.readyState == 4 && xobj.status == "200") {
            callback(xobj.responseText);}
