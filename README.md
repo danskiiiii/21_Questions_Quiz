@@ -8,7 +8,7 @@ Polish language version.
 
 which consist of trivia questions about operating systems.
 
-[GitHub Pages link]("https://danskiiiii.github.io/21_Questions_Quiz/")
+[GitHub Pages link](https://danskiiiii.github.io/21_Questions_Quiz)
 
 ### Quiz Rules ###
 
