@@ -8,6 +8,8 @@ Polish language version.
 
 which consist of trivia questions about operating systems.
 
+<a href=" https://danskiiiii.github.io/21_Questions_Quiz/">GitHub Pages link</a> 
+
 ### Quiz Rules ###
 
 You will be awarded a point after answering correctly YES or NO to all 3 options for each question. 
